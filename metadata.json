@@ -1,0 +1,6 @@
+{
+  "name": "WeatherMood Flutter UI",
+  "description": "An atmospheric weather and emotional mood tracking application crafted with authentic Flutter Material 3 and Cupertino widget design system.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
